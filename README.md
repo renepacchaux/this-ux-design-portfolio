@@ -14,7 +14,7 @@ The portfolio should be a reflection of the process
 
 ## Experience the process
 ### Things to mention across portfolios
-[ ] breadth
+[] breadth
 [] platform guidlines
 [] responseive web design
 [] collaborative work style
@@ -23,7 +23,7 @@ The portfolio should be a reflection of the process
 [] idea to whiteboard
 [] whiteboard to execution
 [] sketches
-[-] workflows
+[x] workflows
 [] interactions
 [] end state
 [] strategy
