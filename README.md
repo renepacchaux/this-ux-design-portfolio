@@ -4,9 +4,7 @@ The design thinking is shown through sketches or whatever other means necessary 
 
 We are building for somebody, not just for aesthetics.
 
-Unfinished
-
-A portfolio needs to be fine-tuned, or your users may spend time learning to overcome the rough edges, if that.
+It might always feel unfinished, but a portfolio needs to be fine-tuned, or your users may spend time overcoming the rough edges, if that.
 
 The UX portfolio is customized and re-customized to keep effectiveness
 
