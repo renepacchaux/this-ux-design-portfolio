@@ -14,6 +14,7 @@ The portfolio should be a reflection of the process
 
 ## Experience the process
 ### Things to mention across portfolios
+Keep these in mind while you adjust your portfolio
 [] breadth
 [] platform guidlines
 [] responseive web design
