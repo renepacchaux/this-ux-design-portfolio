@@ -4,7 +4,7 @@ The design thinking is shown through sketches or whatever other means necessary 
 
 We are building for somebody, not just for aesthetics.
 
-Forever Unfinished
+Constant Unfinished
 
 It is either fine-tuned, or your users learn to overcome your rough edges
 
