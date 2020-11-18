@@ -4,9 +4,9 @@ The design thinking is shown through sketches or whatever other means necessary 
 
 We are building for somebody, not just for aesthetics.
 
-Forever Unfinished
+Constant Unfinished
 
-It is either fine-tuned, or your users learn to overcome your rough edges
+The portfolio either fine-tuned, or your users learn to overcome your rough edges
 
 The UX portfolio is customized and re-customized to keep effectiveness
 
