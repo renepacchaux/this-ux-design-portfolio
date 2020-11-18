@@ -6,7 +6,7 @@ We are building for somebody, not just for aesthetics.
 
 Unfinished
 
-It is either fine-tuned, or your users learn to overcome your rough edges
+A portfolio needs to be fine-tuned, or your users learn to overcome your rough edges
 
 The UX portfolio is customized and re-customized to keep effectiveness
 
