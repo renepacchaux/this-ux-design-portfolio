@@ -1,16 +1,16 @@
 # This UX Design Portfolio
 
-The design thinking is shown through sketches or whatever other means necessary You don't get sleek or modern, you get user flows
+## Experience the process
+The design thinking is shown through sketches or whatever other means necessary You don't get sleek or modern, you get user flows.
 
-We are building for somebody, not just for aesthetics.
+You are building for somebody, not just for aesthetics.
 
 It might always feel unfinished, but a portfolio needs to be fine-tuned, or your users may spend time overcoming the rough edges, if that.
 
-The UX portfolio is customized and re-customized to keep effectiveness
+The UX portfolio is customized and re-customized to keep effectiveness.
 
-The portfolio should be a reflection of the process
+The portfolio should be a reflection of the process:
 
-## Experience the process
 ### Things to mention across portfolios
 Keep these in mind while you adjust your portfolio
 - [] breadth
