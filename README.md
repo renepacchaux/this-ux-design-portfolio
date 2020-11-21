@@ -31,3 +31,5 @@ Keep these in mind while you adjust your portfolio
 - [] recent work
 - [] samples (downloadable)
 - [] depth
+
+Using the flow charts bring with it whitespace, for one.
