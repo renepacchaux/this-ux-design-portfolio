@@ -1,7 +1,7 @@
 # This UX Design Portfolio
 
 ## Experience the process
-The design thinking is shown through sketches or whatever other means necessary You don't get sleek or modern, you get user flows.
+Use sketches and user flows.
 
 You are building for somebody, not just for aesthetics.
 
