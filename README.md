@@ -15,7 +15,7 @@ The portfolio should be a reflection of the process:
 - These is effectively commented out for now
 - [] breadth
 - [] platform guidlines
-- [] responseive web design
+- [] responsive web design
 - [] collaborative work style
 - [] problem solving ability
 - [] competency
