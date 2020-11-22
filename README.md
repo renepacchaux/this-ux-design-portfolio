@@ -11,8 +11,8 @@ The UX portfolio is customized and re-customized to keep effectiveness.
 
 The portfolio should be a reflection of the process:
 
-### Things to mention across portfolios
-Keep these in mind while you adjust your portfolio
+- ### Things to mention across portfolios
+- These is effectively commented out for now
 - [] breadth
 - [] platform guidlines
 - [] responseive web design
@@ -32,4 +32,4 @@ Keep these in mind while you adjust your portfolio
 - [] samples (downloadable)
 - [] depth
 
-Using the flow charts bring with it whitespace, for one.
+
