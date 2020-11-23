@@ -17,7 +17,7 @@ A UX team can customize for effectiveness, and do so collectively.  The aestheti
 
 Find out where the boundaries of and idea are drawn before it looks as if like-thoughts where similarly corraled.  At this point the best tool to use is *heirarchy*.
 
-The portfolio should be a reflection of the process:
+Proceed with depth.
 
 - ### Things to mention across portfolios
 - These is effectively commented out for now
