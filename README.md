@@ -1,13 +1,21 @@
 # This UX Design Portfolio
 
-## Experience the process
-Use sketches and user flows.
+## Avoiding a rough start
+### Use sketches and user flows
 
-You are building for somebody, not just for aesthetics.
+What resonates to the user? What about the visual, to be specific? 
 
-It might always feel unfinished, but a portfolio needs to be fine-tuned, or your users may spend time overcoming the rough edges, if that.
+What you are building aesthetics -- does it have enough depth to make it to the execution stage?
 
-The UX portfolio is customized and re-customized to keep effectiveness.
+To avoid the prolonged and unfinished, the whiteboard needs to include a sketch. 
+
+### Shape the idea
+
+A UX team can customize for effectiveness, and do so collectively.  The aesthetic factor will hold, trusting that the presentation to the stakeholder will start to produce points of resonance that can be collected and leveraged.
+
+### Have a user flow
+
+Find out where the boundaries of and idea are drawn before it looks as if like-thoughts where similarly corraled.  At this point the best tool to use is *heirarchy*.
 
 The portfolio should be a reflection of the process:
 
@@ -31,5 +39,3 @@ The portfolio should be a reflection of the process:
 - [] recent work
 - [] samples (downloadable)
 - [] depth
-
-
