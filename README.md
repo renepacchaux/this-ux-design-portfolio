@@ -5,6 +5,7 @@ What resonates to the user? What about the visual, to be specific?
 
 What you are building aesthetics -- does it have enough depth to make it to the execution stage?
 
+https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_1.svg
 
 A UX team can customize for collectively.  The aesthetic factor will hold, collected and leveraged.
 
