@@ -13,7 +13,7 @@ A UX team can customize for collectively.  The aesthetic factor will hold, colle
 
 
 - ### Things to mention across portfolios
-- These is effectively commented out for now
+- These effectively comment out in the published article
 - [] breadth
 - [] platform guidlines
 - [] responsive web design
