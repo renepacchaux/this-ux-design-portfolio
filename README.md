@@ -10,6 +10,7 @@ https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_f
 A UX team can customize for collectively.  The aesthetic factor will hold, collected and leveraged.
 
 
+
 - ### Things to mention across portfolios
 - These is effectively commented out for now
 - [] breadth
