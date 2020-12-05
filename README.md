@@ -2,6 +2,7 @@
 ## Championing the user flow
 
 What resonates to the user? What about the visual, to be specific? 
+https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_aesthetics.svg
 
 What you are building aesthetics -- does it have enough depth to make it to the execution stage?
 
