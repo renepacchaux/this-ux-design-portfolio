@@ -4,9 +4,6 @@
 What resonates to the user? What about the visual, to be specific? 
 
 What you are building aesthetics -- does it have enough depth to make it to the execution stage?
-
-To avoid the prolonged and unfinished, the whiteboard needs to include a sketch. 
-
 A UX team can customize for effectiveness, and do so collectively.  The aesthetic factor will hold, trusting that the presentation to the stakeholder will start to produce points of resonance that can be collected and leveraged.
 
 
