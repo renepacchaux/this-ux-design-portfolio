@@ -11,6 +11,12 @@ What you are building aesthetics -- does it have enough depth to make it to the 
 A UX team can customize for collectively.  The aesthetic factor will hold, collected and leveraged.
 
 
+- ### Ways to schedule out your day
+- [] Feel out possible roles
+- [] Update materials on the web
+	- [] CI-Connected Materials
+- [] 
+
 
 - ### Things to mention across portfolios
 - These effectively comment out in the published article
