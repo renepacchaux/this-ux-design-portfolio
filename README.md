@@ -15,7 +15,15 @@ A UX team can customize for collectively.  The aesthetic factor will hold, colle
 - [] Feel out possible roles
 - [] Update materials on the web
 	- [] CI-Connected Materials
-- [] 
+    - [] New Portfolio Entries
+- [] Apply to relevant jobs
+	- [] Some applications are ready to go
+    - [] Recruiter and freelance applications get set-it-and-forget-it attention
+    
+- [] Continued Search and Benign Cache
+	- [] current projects
+    - [] recent write-ups
+- [] Update everything across trackers
 
 
 - ### Things to mention across portfolios
