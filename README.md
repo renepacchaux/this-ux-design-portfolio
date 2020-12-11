@@ -1,12 +1,16 @@
 # This UX Design Portfolio
 ## Championing the user flow
 
+### Project Challenge
+
 What resonates to the user? What about the visual, to be specific? 
 ![aesthetic feel chart](https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_aesthetics.svg)
 
 ![collection importance chart](https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_1.svg)
 
-A UX team can customize for collectively.  The aesthetic factor will hold, collected and leveraged.
+### Project Solution
+Collected and leverage unpretty but immensly useflow userflows and see how far it can take you.
+
 
 
 - ### Ways to schedule out your day
