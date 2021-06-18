@@ -9,8 +9,7 @@ What resonates to the user? What about the visual, to be specific?
 ![collection importance chart](https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_1.svg)
 
 ### Project Solution
-Collected and leverage unpretty but immensly useflow userflows and see how far it can take you.
-
+Immensely useful userflows
 
 
 - ### Ways to schedule out your day
