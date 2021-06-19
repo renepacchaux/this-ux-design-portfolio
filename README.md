@@ -7,6 +7,7 @@ This is a matter of daily practice.  I work on exercises and principles that I'v
 
 
 ### Meta Solution
+1. user flows
 2. thematic maps
 3. timelines
 4. gaant calendars
