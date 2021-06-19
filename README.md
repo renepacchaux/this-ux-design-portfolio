@@ -1,34 +1,22 @@
 # This UX Design Portfolio
-## Championing the user flow
+## Sharpening the process
 
-### Project Challenge
+### Meta Challenge
 
-What resonates to the user? What about the visual, to be specific? 
-![aesthetic feel chart](https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_aesthetics.svg)
-
-![collection importance chart](https://cdn.jsdelivr.net/gh/renepacchaux/this-ux-design-portfolio@assets/prose_figure_1.svg)
-
-### Project Solution
-Immensely useful userflows
+This is a matter of daily practice.  I work on exercises and principles that I've learned is part of UX.  It help me subract my own feelings from the team process at hand when working as part of a group
 
 
-- ### Ways to schedule out your day
-- [] Feel out possible roles
-- [] Update materials on the web
-	- [] CI-Connected Materials
-    - [] New Portfolio Entries
-- [] Apply to relevant jobs
-	- [] Some applications are ready to go
-    - [] Recruiter and freelance applications get set-it-and-forget-it attention
-    
-- [] Continued Search and Benign Cache
-	- [] current projects
-    - [] recent write-ups
-- [] Update everything across trackers
+### Meta Solution
+2. thematic maps
+3. timelines
+4. gaant calendars
+5. 'riskiest' feature assessments
+6. cost-benefit cartesian-style plotting
 
 
-- ### Things to mention across portfolios
-- These effectively comment out in the published article
+
+- ### Core things to mention across portfolios
+
 - [] breadth
 - [] platform guidlines
 - [] responsive web design
@@ -47,3 +35,5 @@ Immensely useful userflows
 - [] recent work
 - [] samples (downloadable)
 - [] depth
+
+- NOTE: Dashes effectively comment out strings in this publish-implementation
