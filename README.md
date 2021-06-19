@@ -3,7 +3,7 @@
 
 ### Meta Challenge
 
-This is a matter of daily practice.  I work on exercises and principles that I've learned is part of UX.  It help me subract my own feelings from the team process at hand when working as part of a group
+Work on exercises, daily. Let the design principles that I've learned becomes second-nature.  It hels calibrate what I'm taking in.  It lets me subtract what is mine, from what is part of the user (the work).
 
 
 ### Meta Solution
