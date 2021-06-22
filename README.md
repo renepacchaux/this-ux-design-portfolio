@@ -10,7 +10,7 @@ Work on exercises, daily. Let the design principles that I've learned becomes se
 1. user flows
 2. thematic maps
 3. timelines
-4. gaant calendars
+4. gannt calendars
 5. 'riskiest' feature assessments
 6. cost-benefit cartesian-style plotting
 
