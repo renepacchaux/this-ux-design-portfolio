@@ -5,7 +5,6 @@
 
 Work on exercises, daily. Let the design principles that I've learned becomes second-nature.  It hels calibrate what I'm taking in.  It lets me subtract what is mine, from what is part of the user (the work).
 
-
 ### Meta Solution
 1. user flows
 2. thematic maps
