@@ -3,7 +3,7 @@
 
 ### Meta Challenge
 
-Work on exercises, daily. Let the design principles that I've learned becomes second-nature.  It hels calibrate what I'm taking in.  It lets me subtract what is mine, from what is part of the user (the work).
+Work on exercises daily. Let the design principles that I've learned become second nature.  It helps calibrate what I'm taking in.  It lets me subtract what mine from what is part of the user (the work) is.
 
 ### Meta Solution
 1. user flows
@@ -18,10 +18,10 @@ Work on exercises, daily. Let the design principles that I've learned becomes se
 - ### Core things to mention across portfolios
 
 - [] breadth
-- [] platform guidlines
+- [] platform guidelines
 - [] responsive web design
 - [] collaborative work style
-- [] problem solving ability
+- [] problem-solving ability
 - [] competency
 - [] idea to whiteboard
 - [] whiteboard to execution
