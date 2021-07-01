@@ -9,13 +9,13 @@ Work on exercises daily. Let the design principles that I've learned become seco
 1. user flows
 2. thematic maps
 3. timelines
-4. gannt calendars
+4. Gantt calendars
 5. 'riskiest' feature assessments
 6. cost-benefit cartesian-style plotting
 
 
 
-- ### Core things to mention across portfolios
+- ### Core things to mention across portfolio
 
 - [] breadth
 - [] platform guidelines
