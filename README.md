@@ -1,11 +1,11 @@
 # This UX Design Portfolio
-## Sharpening the process
+## What is a UX Designer?
 
-### Meta Challenge
+### Intro
 
 Work on exercises daily. Let the design principles that I've learned become second nature.  It helps calibrate what I'm taking in.  It lets me subtract what mine from what is part of the user (the work) is.
 
-### Meta Solution
+### Helpful Tools
 1. user flows
 2. thematic maps
 3. timelines
