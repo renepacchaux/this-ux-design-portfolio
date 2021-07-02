@@ -6,14 +6,12 @@
 Work on exercises daily. Let the design principles that I've learned become second nature.  It helps calibrate what I'm taking in.  It lets me subtract what mine from what is part of the user (the work) is.
 
 ### Helpful Tools
-1. user flows
-2. thematic maps
-3. timelines
-4. Gantt calendars
-5. 'riskiest' feature assessments
-6. cost-benefit cartesian-style plotting
-
-
+- user flows
+- thematic maps
+- timelines
+- Gantt calendars
+- 'riskiest' feature assessments
+- cost-benefit cartesian-style plotting
 
 - ### Core things to mention across portfolio
 
@@ -26,7 +24,7 @@ Work on exercises daily. Let the design principles that I've learned become seco
 - [] idea to whiteboard
 - [] whiteboard to execution
 - [] sketches
-- [x] workflows
+- [] workflows
 - [] interactions
 - [] end state
 - [] strategy
@@ -35,5 +33,3 @@ Work on exercises daily. Let the design principles that I've learned become seco
 - [] recent work
 - [] samples (downloadable)
 - [] depth
-
-- NOTE: Dashes effectively comment out strings in this publish-implementation
