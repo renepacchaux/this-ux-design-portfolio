@@ -1,5 +1,5 @@
 
-# Table of Contents
+# This Portfolio
 
 1.  [This Portfolio](#org3d794a2)
     1.  [Putting this portfolio together](#orgfcf47ef)
@@ -15,7 +15,7 @@
 
 <a id="org3d794a2"></a>
 
-# This Portfolio
+
 
 
 <a id="orgfcf47ef"></a>
@@ -25,7 +25,6 @@
 
 <a id="orgc1e729e"></a>
 
-### Gif placeholder
 
 ![img](https://uploads-ssl.webflow.com/5d7d44d8cb34e46b7a9f7abb/60fde1d5c119d426d436c58a_drumroll.gif)
 
