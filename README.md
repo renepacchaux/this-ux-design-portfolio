@@ -1,25 +1,54 @@
 
-# What is a UX Designer?
+# Table of Contents
 
-1.  [This Portfolio](#org749683d)
-    1.  [Helpful Tools](#orgb3f57f6)
-        1.  [Subjects Basically](#org6339662)
-        2.  [Keywords basically](#org83ffbb6)
+1.  [This Portfolio](#org3d794a2)
+    1.  [Putting this portfolio together](#orgfcf47ef)
+        1.  [Gif placeholder](#orgc1e729e)
+    2.  [Research](#orgb7075d8)
+        1.  [Breaking it down into pages](#orga416d4e)
+        2.  [Industry tapping](#org2e3b847)
+        3.  [What about the data](#org9010342)
+    3.  [Frontend work](#orgd3f8148)
+        1.  [Scoring interest](#org9f68f14)
+        2.  [Keywords basically](#org1457cce)
 
 
-<a id="org749683d"></a>
+<a id="org3d794a2"></a>
 
 # This Portfolio
 
-<a id="org41dc301"></a>
 
-### Intro
+<a id="orgfcf47ef"></a>
+
+## Putting this portfolio together
+
+
+<a id="orgc1e729e"></a>
+
+### Gif placeholder
+
+![img](https://uploads-ssl.webflow.com/5d7d44d8cb34e46b7a9f7abb/60fde1d5c119d426d436c58a_drumroll.gif)
+
+
+<a id="orgb7075d8"></a>
+
+## Research
+
+
+<a id="orga416d4e"></a>
+
+### Breaking it down into pages
 
 Work on exercises daily. Let the design principles that I've learned
-become second nature. It helps calibrate what I'm taking in. It lets me
-subtract what mine from what is part of the user (the work) is.
+become second nature. It helps calibrate what I'm taking in.
 
-**Consise describing me**
+It lets me subtract what mine from what is part of the user (the work)
+is.
+
+
+<a id="org2e3b847"></a>
+
+### Industry tapping
 
 I want to explain UX as scooping ice cream. But first: I code. I also
 describe by doing. My inner dev says that I must surpass a story about
@@ -34,21 +63,24 @@ For some, are they calm and deliberate as they shape a concave space?
 Why even come up with a random prerequisite to enjoy the first scoop out
 if the tub?
 
-**What about the data**
+
+<a id="org9010342"></a>
+
+### What about the data
 
 Scoop tracking hardware exists. I have not seen this,but I believe it to
 be true. What benefit would scale on the y axis? What quadrant would
 deduce *the subject* &#x2013; just eat the ice cream.
 
 
-<a id="orgb3f57f6"></a>
+<a id="orgd3f8148"></a>
 
-## Helpful Tools
+## Frontend work
 
 
-<a id="org6339662"></a>
+<a id="org9f68f14"></a>
 
-### Subjects Basically
+### Scoring interest
 
 -   user flows
 -   thematic maps
@@ -59,7 +91,7 @@ deduce *the subject* &#x2013; just eat the ice cream.
 -   **Core things to mention across portfolio**
 
 
-<a id="org83ffbb6"></a>
+<a id="org1457cce"></a>
 
 ### Keywords basically
 
