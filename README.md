@@ -1,3 +1,24 @@
+ ---
+ title: Outdoor Pavilion Directions
+ description: An outdoor venue app
+ data:
+  name:  Northerly Island
+  keyword: directions
+
+ image: "which-nft-image"
+ projectUrl: 'https://whichnft.herokuapp.com/'
+
+ team:
+   - Nick
+ tools:
+
+   - miro
+
+ featured: false
+ ---
+## up
+## to
+
 # Portfolio closeup
 
 1.  [This Portfolio](#org403fd23)
@@ -79,4 +100,3 @@ To notice small things that add up to big [Eye tracking software exists](<https:
     **\*** Keywords aiming to address across portfolio
 
 [ ] breadth [x] responsive web design [ ] platform guidelines [ ] collaborative work style [ ] problem-solving ability [ ] competency [ ] idea to whiteboard [ ] whiteboard to execution [ ] sketches [ ] workflows [ ] interactions [ ] end state [ ] strategy [ ] communication [ ] delivery [ ] recent work [ ] samples (downloadable) [ ] depth
-
