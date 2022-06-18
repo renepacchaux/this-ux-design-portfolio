@@ -1,6 +1,22 @@
 Playing with Flight UI - About My Process
 Overview
 
+Some portions of this will be talking shop
+
+
+Talking shop
+
+Sketch - This is the tiniest form idea for logistics dispatch.
+
+![First jump from a sketch](https://s3-us-east-2.amazonaws.com/opt-renepacchaux-com-bucket/opt-renepacchaux-com/20720eca/460_sp20220618_164545_180.png)
+
+
+https://s3-us-east-2.amazonaws.com/opt-renepacchaux-com-bucket/opt-renepacchaux-com/20720eca/460_sp20220618_164545_180.png
+
+Think about what can make its all the way to the presentation stage.  Apps in use range from Figma all the way to powerpoint. Here, we also be using use Webflow.
+
+
+
 This setup allows me to keep motivated while looking into different industries.
 
 portflowlio
