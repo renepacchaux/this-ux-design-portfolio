@@ -14,14 +14,14 @@ https://s3-us-east-2.amazonaws.com/opt-renepacchaux-com-bucket/opt-renepacchaux-
 
 Think about what can make its all the way to the presentation stage.  Apps in use range from Figma all the way to powerpoint. Here, we also be using use Webflow.
 
-
 This setup allows me to keep motivated while looking into different industries.
 
 ## portflowlio
 ### The Design Tools
 
 If it is a new project, I pick my work as user waypoints. Aesthetic is not the focus when I first unpack a new design solution.
-Prototyping
+
+## Prototyping
 
 A digital product seeking optimal usability is measured in seconds.
 
@@ -40,6 +40,7 @@ I have found that of all the team collaboration tools I have used, discord works
 
 Below is the research snippet I used to come up with the idea. It also works for new co-collaborators to the space. They now have a place to dial in on the mood of the place.
 Unrelated channel useful as vibe lookup
+
 	Design Buddies 	Adobe Creative Career 	Friends of Figma 	Design Tropes
 Server Suggestions 	[x] 	[x] 	[x] 	[ ]
 Nostalgia Gallery 	[x] 	[ ] 	[ ] 	[x] 1
