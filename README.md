@@ -35,7 +35,8 @@ It is justifiable to do this work upfront. It is most relevant when there is a n
 The analysis is about filling in the gaps about the design destination. When someone clips and posts a poem, it defines the place for that community -- as long as it looks and feels like one.
 
 Discover what piques my curiosity at the moment and take a look at the different apps available.
-Starting a new project
+
+### Starting a new project
 
 I have found that of all the team collaboration tools I have used, discord works the best. I only ask for one alteration at the beginning of setting up a new workspace (or "server"). that is, give me channel so I and the rest of the team can put unrelated things. I will contribute to the vibe as well as welcome staying active on a new project.
 
