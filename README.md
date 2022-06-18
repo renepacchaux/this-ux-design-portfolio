@@ -1,7 +1,5 @@
-Playing with Flight UI - About My Process
-Overview
+# Playing with Flight UI - About My Process
 
-Some portions of this will be talking shop
 
 
 ### Talking shop
@@ -52,17 +50,18 @@ Resume Feedback 	[x] 	[ ] 	[ ] 	[ ]
 Summary
 
 These are just a few of the ways I like to work on projects that capture ambiguity into some structure. As a micro-process of the bigger picture, It eventually models the science that provides the design data in future deliverables.
-Next Steps
+
+## Next Steps
 Decide on a homepage title
 
-google analytics 3 page titles
+### google analytics 3 page titles
 This is how long the previous iteration was up.
 
 span of time webflow renepacchaux was up calendar
 There is an opportunity for opening up my niche using one finished app at least.
 
-coin term niche-ify
-Merging Page Titles
+## coin term niche-ify
+### Merging Page Titles
 
 I experimented the the titles of where my case studies would be listed. Exact Page Title Listings saved me here.
 
