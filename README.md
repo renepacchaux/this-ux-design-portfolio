@@ -1,10 +1,62 @@
+Playing with Flight UI - About My Process
+Overview
 
-Recipe revolution, case study relevant to the restaurant business. I worked on reducing the uninstalling spirits by an iOS app owner with some investigating competitive stitching was on the Horizons, installed metrics, reflect something free and toy. And the only hurdle is getting to the first recipe. You just start to believe the time spent learning the first step presented in the app. Isn't worth the effort of trying to make a dental thing. I could make way further issues that needed for addressing UX designer thought process. How can my work lead to a well rounded and inform goal? There are many points I would like about how I can realize what can be considered a big deal to the business and a user. Also tell you what I did about it implementation gave me positive vibes has spotted nuance evidence of a seated approach to the upload meal feature. This case study focused, focuses on an implicit requirement to get Instagram style <inaudible> is on the atmospheres prosecutor. I box my time as a result. My attention to the test is well bonded and the work improved My head mark in meetings I did behind the scenes with a digital set of timers. I prepared estimates of the amount of time I would take up. I controlled the pace of idea, the paper,  
+This setup allows me to keep motivated while looking into different industries.
 
-  The wrong flip for some gluten intake may improve your life. Others inside that You did not expect to see so many obstacles, Many pixels were dedicated to warnings about even using the app. This is not what went wrong. Shifting pixels for legal warnings seemed Something easy to take away. I identified an implicit requirement, user uploaded clothes. There were a business requirement and required cycle decreasing in their by crowd converting. My many users I interviewed wanted the recipe after work better. There being two doctors behind the project was hit with users as well. Background created by two doctors to get you recipes were gluten free. Imagine working a kitchen filing recipe off a phone while checking off disclaimer box was learning how to do that. Then learning the original thing again, back in the interview with the stakeholder and got my first glimpse that was stolen, spoken me onboarding. It was a clear <inaudible> where almost that almost flew under the radar and the up and running that us talk about the physical hurdle. You just hands are full during the cooking. Literally you could not do much more other than the two things of cooking and going.  
+portflowlio
+The Design Tools
 
-  The first step in sketch brought us Toward doing some of the upfront learning scale of the unit base. When we tested sketches, we also tested learning times. The solution was to cut the time to conversion steps to a small number, Moving business obstacles to fast learning user flows are a glimpse into a direction that a user can take within the bound of the app to improve the time it takes to learn the app. We improve the user flow. This is when, as far as to see the application with photos, the action validates the gap where The app is now and where the app wants it to be. What I did to start the process, to get ideas. I not paper. I had a sketch design session and very imaginably this way. I created a representation of our users. I schedule time to make persona turning into two persona. I connect the playfulness and the sketches to think and draw from the high quantity of inspiration. I need to know what to out. Sketching helps that According to the testing, some ideas of visuals were distraction at a second stakeholder review. I'm boarding head state on as priority. When I was here to work with that, I kept my ideas from surpassing the onboard prime, the record, the second requirement of user uploads in the back of my mind,  
+If it is a new project, I pick my work as user waypoints. Aesthetic is not the focus when I first unpack a new design solution.
+Prototyping
 
-  I downloaded the app as user would I carried this motivation to all user goals, to all user interviews. I planned at the actual interviews. I stayed on task to finished within the agreed upon time. It was disconnect in how the visuals were presented. At first. At this point, the visuals are increasing the, it was all bearing down on the representation of the final followed recipe and the product shown that it's gonna becoming an implied competition. Also fun.  
+A digital product seeking optimal usability is measured in seconds.
 
-  What are the design decisions that can clarify that user? This will be a clear snow from process what's fund requirement for design work. And, you know, it's pointed out of good energy, deep within a food product and the ingredients are being put together. It was helpful to see the finished product. First, we had pictures, there was something very stylistically similar about the pictures of meals already in the app. They had already similar depth and lighting conditions. There was our implicit requirement, get the user to upload a picture. It has to work better and faster. We assert initial findings to user testing already downloading from the iOS store. Our user still had many obstacles to go before, even thinking of uploading interview. E even said, I not just Google Process one time slot for question answer. That was in the process. I police my own time for task time makes an excellent basically. I, I also implicit problem to obstacles in the app, implementation Tools, sheets, zoom phone, 
+If the testing supports it, these spreadsheet-style analyses can do some heavy lifting. It can help you avoid digging for unsupported answers.
+Going for variations
+
+It is justifiable to do this work upfront. It is most relevant when there is a natural way of playing with instinct and launching something that you trust will be accepted as per default.
+Informed Intuition
+
+The analysis is about filling in the gaps about the design destination. When someone clips and posts a poem, it defines the place for that community -- as long as it looks and feels like one.
+
+Discover what piques my curiosity at the moment and take a look at the different apps available.
+Starting a new project
+
+I have found that of all the team collaboration tools I have used, discord works the best. I only ask for one alteration at the beginning of setting up a new workspace (or "server"). that is, give me channel so I and the rest of the team can put unrelated things. I will contribute to the vibe as well as welcome staying active on a new project.
+
+Below is the research snippet I used to come up with the idea. It also works for new co-collaborators to the space. They now have a place to dial in on the mood of the place.
+Unrelated channel useful as vibe lookup
+	Design Buddies 	Adobe Creative Career 	Friends of Figma 	Design Tropes
+Server Suggestions 	[x] 	[x] 	[x] 	[ ]
+Nostalgia Gallery 	[x] 	[ ] 	[ ] 	[x] 1
+Perks 	[x] 	[ ] 	[ ] 	[x]
+Emoji in channel name 	[x] 	[x] 	[x] 	[ ]
+Resume Feedback 	[x] 	[ ] 	[ ] 	[ ]
+
+1 - An easy way to bring nostalgia into a server is not to create a slide deck of all the inside-jokes, rather create an "unrelated news clippings" channel, for example.
+Summary
+
+These are just a few of the ways I like to work on projects that capture ambiguity into some structure. As a micro-process of the bigger picture, It eventually models the science that provides the design data in future deliverables.
+Next Steps
+Decide on a homepage title
+
+google analytics 3 page titles
+This is how long the previous iteration was up.
+
+span of time webflow renepacchaux was up calendar
+There is an opportunity for opening up my niche using one finished app at least.
+
+coin term niche-ify
+Merging Page Titles
+
+I experimented the the titles of where my case studies would be listed. Exact Page Title Listings saved me here.
+
+choosing exact match google analytics
+
+I am also setting up a project timeline.
+
+empty timeline
+Tools
+
+    Storytelling
+    Theme Synthesis
