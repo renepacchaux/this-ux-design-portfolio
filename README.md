@@ -23,13 +23,14 @@ If it is a new project, I pick my work as user waypoints. Aesthetic is not the f
 
 ## Prototyping
 
-A digital product seeking optimal usability is measured in seconds.
+For any digital product optimal usability is measured in seconds.
 
 If the testing supports it, these spreadsheet-style analyses can do some heavy lifting. It can help you avoid digging for unsupported answers.
 Going for variations
 
 It is justifiable to do this work upfront. It is most relevant when there is a natural way of playing with instinct and launching something that you trust will be accepted as per default.
-Informed Intuition
+
+### Informed Intuition
 
 The analysis is about filling in the gaps about the design destination. When someone clips and posts a poem, it defines the place for that community -- as long as it looks and feels like one.
 
