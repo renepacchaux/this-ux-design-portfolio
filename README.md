@@ -4,7 +4,7 @@ Overview
 Some portions of this will be talking shop
 
 
-Talking shop
+### Talking shop
 
 Sketch - This is the tiniest form idea for logistics dispatch.
 
@@ -16,11 +16,10 @@ https://s3-us-east-2.amazonaws.com/opt-renepacchaux-com-bucket/opt-renepacchaux-
 Think about what can make its all the way to the presentation stage.  Apps in use range from Figma all the way to powerpoint. Here, we also be using use Webflow.
 
 
-
 This setup allows me to keep motivated while looking into different industries.
 
-portflowlio
-The Design Tools
+## portflowlio
+### The Design Tools
 
 If it is a new project, I pick my work as user waypoints. Aesthetic is not the focus when I first unpack a new design solution.
 Prototyping
