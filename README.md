@@ -1,5 +1,6 @@
 # Playing with Flight UI - About My Process
 
+Some portions of this will be talking shop
 
 
 ### Talking shop
